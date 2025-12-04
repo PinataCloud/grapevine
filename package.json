@@ -1,6 +1,6 @@
 {
   "name": "grapevine",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "private": true,
   "description": "Decentralized Data Feeds Platform - Monorepo",
   "packageManager": "pnpm@10.22.0",
